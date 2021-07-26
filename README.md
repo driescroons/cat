@@ -8,3 +8,6 @@ gato
 
 По-русски! (Russian)
 Кот
+
+In het Nederlands! (Dutch)
+kat
